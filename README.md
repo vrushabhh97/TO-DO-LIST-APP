@@ -6,4 +6,6 @@ Together, these technologies create a user-friendly app that simplifies task man
 
 # DEMO
 
+![To Do List App GIF](https://github.com/vrushabhh97/TO-DO-LIST-APP/assets/68142086/0d8e1056-f02e-4b53-8066-c0e10614c614)
+
 
