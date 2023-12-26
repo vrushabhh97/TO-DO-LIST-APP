@@ -1,16 +1,6 @@
-# to_do_list
+# TO DO LIST APP
 
-A new Flutter project.
+The To-Do List app is a mobile application designed to enhance daily organization. Developed with Flutter, it offers a responsive and attractive front end, allowing users to easily add, complete, and delete tasks. 
+The app's functionality is powered by Dart, ensuring a smooth and reliable user experience. Data is managed efficiently using Hive as the database, providing a fast and lightweight solution for storing user tasks. 
+Together, these technologies create a user-friendly app that simplifies task management and boosts productivity.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
